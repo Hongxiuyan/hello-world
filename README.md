@@ -3,4 +3,4 @@ Practice
 It's in a practice repository named hello-world!
 
 Hello World!
-ver.2
+ver. 3
